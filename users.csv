@@ -1,0 +1,13 @@
+user_id,account,password,name,phone,roles
+U001,admin,demo1234,趙審核,0911-000111,Support
+U002,manager_a,demo1234,王總幹事,0922-000222,Manager
+U003,chairman,demo1234,周主委,0933-000333,"Resident,Committee"
+U004,vendor_01,demo1234,吳水電,0944-000444,"Resident,Vendor"
+U005,resident_01,demo1234,林住戶,0955-000555,Resident
+U006,guest_test,demo1234,待審人,0966-000666,Resident
+U007,resident_02,demo1234,陳大文,0912-345678,Resident
+U008,vendor_02,demo1234,李電梯,0923-456789,Vendor
+U009,guard_01,demo1234,張安全,0934-567890,Guard
+U010,resident_03,demo1234,孫小美,0945-678901,Resident
+U011,manager_b,demo1234,李總幹事,0956-789012,Manager
+U012,resident_04,demo1234,郭屋主,0967-890123,"Resident,Committee"

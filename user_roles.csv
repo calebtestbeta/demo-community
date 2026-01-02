@@ -1,0 +1,15 @@
+relation_id,user_id,community_name,role_type,unit_info,status
+R001,U001,系統總部,Support,N/A,Approved
+R002,U002,幸福大院,Manager,管理室,Approved
+R003,U003,幸福大院,Resident,A棟10F,Approved
+R004,U003,幸福大院,Committee,A棟10F,Approved
+R005,U004,幸福大院,Resident,B棟1F,Approved
+R006,U004,系統總部,Vendor,誠信水電,Approved
+R007,U006,幸福大院,Resident,C棟5F,Pending
+R008,U007,幸福大院,Resident,D棟2F,Approved
+R009,U008,系統總部,Vendor,通力電梯,Approved
+R010,U009,幸福大院,Guard,管理室,Approved
+R011,U010,平安名邸,Resident,A棟3F,Approved
+R012,U012,平安名邸,Resident,B棟12F,Approved
+R013,U012,平安名邸,Committee,B棟12F,Approved
+R014,U005,幸福大院,Resident,A棟8F,Approved
